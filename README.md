@@ -10,5 +10,8 @@ a bigger title so our markdownis automatically being converted to HTML we also h
 type in some stuff here and you see it shows up and even the path to our articles take them to account the title of the article instead of having some ugly ID in the route so we have all these intresting stuff baked into our the system even including delete button.
 ![Screenshot (67)](https://user-images.githubusercontent.com/55496505/105875026-4e607c00-6023-11eb-97a7-b1f829535cf0.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/55496505/105875024-4dc7e580-6023-11eb-8eb1-acc44f3cc618.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/55496505/105876181-b794bf00-6024-11eb-971a-7b96209ac2bf.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/55496505/105876186-b8c5ec00-6024-11eb-8d28-7a61efa4b37a.png)
+
 
   
