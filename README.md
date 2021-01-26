@@ -11,7 +11,9 @@ type in some stuff here and you see it shows up and even the path to our article
 ![Screenshot (67)](https://user-images.githubusercontent.com/55496505/105875026-4e607c00-6023-11eb-97a7-b1f829535cf0.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/55496505/105875024-4dc7e580-6023-11eb-8eb1-acc44f3cc618.png)
 ![Screenshot (70)](https://user-images.githubusercontent.com/55496505/105876181-b794bf00-6024-11eb-971a-7b96209ac2bf.png)
-![Screenshot (69)](https://user-images.githubusercontent.com/55496505/105876186-b8c5ec00-6024-11eb-8d28-7a61efa4b37a.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/55496505/105876953-73ee8500-6025-11eb-9779-ed8a7233a45e.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/55496505/105876946-7224c180-6025-11eb-8e7c-b466f0065f43.png)
+
 
 
   
