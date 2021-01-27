@@ -8,10 +8,11 @@ router.get('/new', (req, res) => {
 })
 //Edit blog route
 router.get('/edit/:id', async (req, res) => {
-  const article = await Article.findById(req.params.id)
-  res.render('articles/edit', { article: article })
+  const article = await Article.findById(req.params.id)  
+  res.render('articles/edit', { article: article })        
 })
-
+//async is used because findById() is the asynchronous function
+//await is used for wait for the article
 router.get('/:slug', async (req, res) => {
   const article = await Article.findOne({ slug: req.params.slug })
   if (article == null) res.redirect('/')
@@ -43,6 +44,7 @@ function saveArticleAndRedirect(path) {
       article = await article.save()
       res.redirect(`/articles/${article.slug}`)
     } catch (e) {
+      //we can catch the error by using this block also we can print error by using console.log(e)
       res.render(`articles/${path}`, { article: article })
     }
   }
