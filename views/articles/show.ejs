@@ -10,14 +10,14 @@
 <body>
   <div class="container">
     <h1 class="mb-1"><%= article.title %></h1>
-    <div class="text-muted mb-2">
-      <%= article.createdAt.toLocaleDateString() %>
+    <div class="text-muted mb-2"> //look date in gray color 
+      <%= article.createdAt.toLocaleDateString() %> //Date format conversion into string MM/DD/YYYY
     </div>
-    <a href="/" class="btn btn-secondary">All Articles</a>
-    <a href="/articles/edit/<%= article.id %>" class="btn btn-info">Edit</a>
+    <a href="/" class="btn btn-secondary">All Articles</a>  //created All Article button
+    <a href="/articles/edit/<%= article.id %>" class="btn btn-info">Edit</a>  ////created Edit button
 
     <div>
-      <%- article.sanitizedHtml %>
+      <%- article.sanitizedHtml %>  //It will display whole article in text format
     </div>
   </div>
 </body>
