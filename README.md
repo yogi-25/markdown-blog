@@ -23,6 +23,9 @@ type in some stuff here and you see it shows up and even the path to our article
 //dev dependencies 
 # 4. npm run devStart          
 //run devStart
+# 5. npm i marked slugify
+//marked library allow us to create markdown and turn it into HTML
+//slugify library allow us to convert something like title into URL friendly slug which we can use instead of a title
 
 
 
