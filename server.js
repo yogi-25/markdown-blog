@@ -9,7 +9,7 @@ mongoose.connect('mongodb://localhost/blog', {
   useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true
 })
 
-app.set('view engine', 'ejs')
+app.set('view engine', 'ejs')   //I had written all views in ejs .View engine convert this ejs code into HTML.
 app.use(express.urlencoded({ extended: false }))
 app.use(methodOverride('_method'))
 
@@ -20,4 +20,4 @@ app.get('/', async (req, res) => {
 
 app.use('/articles', articleRouter)
 
-app.listen(5000)
+app.listen(5000)   //listen port 5000 =>means we can type localhost:5000 on browser
