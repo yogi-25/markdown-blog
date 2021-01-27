@@ -1,3 +1,4 @@
+//This file is used to store blog articles.
 const mongoose = require('mongoose')
 const marked = require('marked')
 const slugify = require('slugify')
@@ -44,4 +45,4 @@ articleSchema.pre('validate', function(next) {
   next()
 })
 
-module.exports = mongoose.model('Article', articleSchema)
+module.exports = mongoose.model('Article', articleSchema)  //Article is the table and and articleSchema contain columns.
