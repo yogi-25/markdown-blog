@@ -15,10 +15,14 @@ type in some stuff here and you see it shows up and even the path to our article
 ![Screenshot (72)](https://user-images.githubusercontent.com/55496505/105876946-7224c180-6025-11eb-8e7c-b466f0065f43.png)
 
 # set-up server command
-1. npm init -y      // It builds package.json file.
-2. npm i express mongoose ejs  //install dependcies 
-3. npm i --save-dev nodemon    //dev dependencies 
-4. npm run devStart            //run devStart
+1. # npm init -y      
+// It builds package.json file.
+2.  # npm i express mongoose ejs  
+//install dependcies 
+3. # npm i --save-dev nodemon   
+//dev dependencies 
+4. # npm run devStart          
+//run devStart
 
 
 
