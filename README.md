@@ -1,6 +1,6 @@
 # markdown-blog
 This is amazing web application created by using MERN stack.
-It has diffrent article showing up in our home page.
+It has diffrent article showing up in our home pages.
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/55496505/105871843-b7de8b80-601f-11eb-8563-0351d3aceea1.png)
 If we click on Read more we can actually view our blog and great thing about these article is if we click edit you can 
